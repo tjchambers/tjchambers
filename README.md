@@ -1,5 +1,5 @@
 
-<h1 align="center">What's up, I'm Tim Chambers</h1>
+<h1 align="center">I'm Tim Chambers</h1>
 <h4 align="center">  <a href="https://www.linkedin.com/in/tjchambers/" rel="me">LinkedIn</a> &bull; <a href="https://stackoverflow.com/users/969193/tjchambers" rel="me">Stack Overflow</a> &bull; <a href="https://mastodon.xyz/@mactim" rel="me">Mastodon</a></h4></h1>
 
 ---
@@ -10,7 +10,7 @@
 
 <h2>Industry Experience</h2>
 
-* I've been a technical, hands-on CTO and Devlopment Manager/Developer for over 50 years.
+* I've been a technical, hands-on CTO and Development Manager/Developer for over 50 years.
 * I cofounded [SchellingPoint](https://www.schellingpoint.com) in May 2005.
 * I worked as a consultant and employee at [Hint](http://www.hintmedia.com) augmenting their clients development teams.
 * Before that, I was a Software Architect and Consultant at [Infor](https://infor.com).
