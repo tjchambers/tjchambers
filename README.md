@@ -1,7 +1,5 @@
 
-
-
-<h1 align="center">What's up, I'm Tim <Chambers class=""></Chambers></h1>
+<h1 align="center">What's up, I'm Tim Chambers</h1>
 <h4 align="center">  <a href="https://www.linkedin.com/in/tjchambers/" rel="me">LinkedIn</a> &bull; <a href="https://stackoverflow.com/users/969193/tjchambers" rel="me">Stack Overflow</a> &bull; <a href="https://mastodon.xyz/@mactim" rel="me">Mastodon</a></h4></h1>
 
 ---
